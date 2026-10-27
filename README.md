@@ -139,7 +139,7 @@ while True:
     if server_msg.lower() == "exit":
         break
 
-client.close()
+client.close(
 
 ```
 ## Output:
